@@ -43,4 +43,6 @@ def isolamento_domiciliare():
 def guariti():
     for i in data:
         return(i['dimessi_guariti'])
+    
+ #fine programma
 
